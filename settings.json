@@ -28,12 +28,12 @@
     "defaults": {
       // Put settings here that you want to apply to all profiles.
       "useAcrylic": true,
-      "acrylicOpacity": 0.99,
-      //   "fontFace": "Delugia Nerd Font",
+      "acrylicOpacity": 0.8,
+      // "fontFace": "Delugia Nerd Font",
       "fontFace": "Source Code Pro",
       "fontSize": 10,
       "colorScheme": "Adventure",
-      "startingDirectory": "%USERPROFILE%/Documents/dev/projects"
+      "startingDirectory": "%USERPROFILE%/Documents/dev"
     },
     "list": [
       {
